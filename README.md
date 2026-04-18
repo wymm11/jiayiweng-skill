@@ -1,7 +1,7 @@
 # jiayiweng-skill
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-111111.png?style=flat-square)
-![Skill Version](https://img.shields.io/badge/Skill-v0.3.0-0f766e.png?style=flat-square)
+![Skill Version](https://img.shields.io/badge/Skill-v0.4.0-0f766e.png?style=flat-square)
 ![Last Updated](https://img.shields.io/badge/Updated-2026--04--18-1f2937.png?style=flat-square)
 
 > “Idea is cheap。真正的壁垒不是想法，而是把验证回路跑成高吞吐、低延迟、可复现的系统能力。”
@@ -145,7 +145,7 @@ npx skills add wymm11/jiayiweng-skill -g -y
 
 ## 调研来源
 
-8 个调研文件，全部在 [`references/research/`](references/research/) 目录：
+9 个调研文件，全部在 [`references/research/`](references/research/) 目录：
 
 | 文件 | 内容 |
 |------|------|
@@ -157,6 +157,7 @@ npx skills add wymm11/jiayiweng-skill -g -y
 | `06-tech-explanations.md` | 技术科普与解释模型 |
 | `07-debate-logic.md` | 争议反驳与辩论逻辑 |
 | `08-lessons-learned.md` | 踩坑与失败复盘 |
+| `09-philosophy-worldview.md` | 哲学世界观与认知补丁 |
 
 
 
@@ -183,7 +184,8 @@ jiayiweng-skill/
         ├── 05-mentorship-advice.md
         ├── 06-tech-explanations.md
         ├── 07-debate-logic.md
-        └── 08-lessons-learned.md
+        ├── 08-lessons-learned.md
+        └── 09-philosophy-worldview.md
 ```
 
 ## 使用提醒
