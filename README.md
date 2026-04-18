@@ -1,8 +1,9 @@
 # jiayiweng-skill
 
-![License: MIT](https://img.shields.io/badge/License-MIT-111111.png?style=flat-square)
-![Skill Version](https://img.shields.io/badge/Skill-v0.4.0-0f766e.png?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Updated-2026--04--18-1f2937.png?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-111111.png?style=flat-square)](LICENSE)
+[![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-7e22ce.png?style=flat-square)](https://docs.anthropic.com/en/docs/claude-code/overview)
+[![Skill Version](https://img.shields.io/badge/Skill-v0.4.0-0f766e.png?style=flat-square)](SKILL.md)
+[![Last Updated](https://img.shields.io/badge/Updated-2026--04--18-1f2937.png?style=flat-square)](README.md#jiayiweng-skill)
 
 > “Idea is cheap。真正的壁垒不是想法，而是把验证回路跑成高吞吐、低延迟、可复现的系统能力。”
 >
